@@ -4,9 +4,9 @@ public class PennyLoan
         private int length ; // length of subscription in months
 
         public PennyLoan(int a, int l) {
-                amount = a ;
+                amount = a/100 ;
                 length = l ;
-              
+
 
         }
 
