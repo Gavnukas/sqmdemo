@@ -6,8 +6,8 @@ public class PennyLoan
         public PennyLoan(int a, int l) {
                 amount = a ;
                 length = l ;
-                private int meh = 0;
-                
+              
+
         }
 
         /**
