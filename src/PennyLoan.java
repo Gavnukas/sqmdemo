@@ -7,7 +7,7 @@ public class PennyLoan
                 amount = a ;
                 length = l ;
                 private int meh = 0;
-                System.out.println(meh);
+                
         }
 
         /**
